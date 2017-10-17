@@ -1,4 +1,4 @@
 *.tar
 *.pdf
 */.ipynb_checkpoints/*
-HW1/cifar10-hw1/*
+*/cifar10-hw1/*
